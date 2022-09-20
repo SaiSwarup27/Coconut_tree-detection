@@ -1,9 +1,6 @@
 # Coconut_tree-detection
 
-coconut tree detection using deepstream
-
-# Jetson_AIDsys
-Animal Intrusion Detection system, a deep learning model developed on Yolov5 .It is trained and deployed on NVIDIA Jetson Nano kit
+Coconut tree Detection system, a deep learning model developed on Yolov5 .It is trained and deployed on NVIDIA Jetson Nano kit
 
 ## Custom Object Detection(YOLOV5)
 
@@ -65,7 +62,7 @@ open terminal and enter:
 
 Run the Deepstream-app using following command:
 
-        sudo deepstream-app -c animal_config.txt
+        sudo deepstream-app -c cocotree_config.txt
 
 
 ## Output:
