@@ -68,15 +68,16 @@ Run the Deepstream-app using following command:
 ## Output:
 
 ### Image Inference:
-![image](https://user-images.githubusercontent.com/91280385/191220894-0f6c789b-426e-4bf3-bffd-d79d0bbd5278.png)
+![cdece21f-d134-4d59-95ea-b6e2955fbdcb](https://user-images.githubusercontent.com/96674419/191324044-a20e0791-a778-436d-837a-fb84ddd26ad2.jpg)
+![e9bfbea6-0537-4a62-93ee-95d738cf95fd](https://user-images.githubusercontent.com/96674419/191324056-a924525d-a900-472a-8897-2b8f7f193b0f.jpg)
+
 
 ### Video Inference:
 
 
 ### Live Inference(Camera) on Jetson: 
 
-### Using Deepstream:
+
+https://user-images.githubusercontent.com/96674419/191322549-7c0db398-dc28-49d9-ae99-85d60935f724.mp4
 
 
-
-https://user-images.githubusercontent.com/91280385/191314739-a6f7e113-42d6-4bdd-bf4d-ec546a6ea5ff.mp4
