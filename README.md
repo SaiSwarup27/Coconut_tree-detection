@@ -80,4 +80,7 @@ Run the Deepstream-app using following command:
 
 https://user-images.githubusercontent.com/96674419/191322549-7c0db398-dc28-49d9-ae99-85d60935f724.mp4
 
+### Using Deepstream :
+- for animal intrusion detection
+https://user-images.githubusercontent.com/91280385/191314739-a6f7e113-42d6-4bdd-bf4d-ec546a6ea5ff.mp4
 
